@@ -479,8 +479,14 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1754893242988",
+      "icon": "💻",
+      "name": "我的应用",
+      "order": 0,
+      "sites": []
     }
   ],
-  "title": "凌霄导航",
-  "_fileSha": "fa76b0cb6370a570d69ded0400e18cf51d5b1886"
+  "title": "凌霄导航"
 }
