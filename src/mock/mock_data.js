@@ -481,7 +481,7 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-1754893242988",
+      "id": "category-1754893496506",
       "icon": "💻",
       "name": "我的应用",
       "order": 0,
