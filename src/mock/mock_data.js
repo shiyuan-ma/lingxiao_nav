@@ -42,10 +42,10 @@ export const mockData = {
           "icon": "/sitelogo/curlconverter.com.ico"
         },
         {
-          "id": "site-1756088354644",
-          "name": "Gemini",
+          "id": "site-1756365212501",
+          "name": "googleAI",
           "url": "https://gemini.google.com/",
-          "description": "谷歌AI",
+          "description": "https://gemini.google.com/",
           "icon": ""
         }
       ]
