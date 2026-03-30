@@ -60,6 +60,18 @@ export const mockData = {
           "name": "Alist",
           "url": "http://mashiyuan.top:5244/",
           "description": "Alist"
+        },
+        {
+          "id": "site-1774852488669",
+          "name": "oracle_FileCodeBox",
+          "url": "http://129.146.145.157:12345/",
+          "description": "甲骨文上面的"
+        },
+        {
+          "id": "site-1774852603681",
+          "name": "oracle_memos",
+          "url": "http://129.146.145.157:5230",
+          "description": ""
         }
       ]
     },
